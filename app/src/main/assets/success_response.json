@@ -1,0 +1,96 @@
+{
+  "error": false,
+  "message": "Stories fetched successfully",
+  "listStory": [
+    {
+      "id": "story-hzxddBiw-MgP-YQS",
+      "name": "san",
+      "description": "tes cam",
+      "photoUrl": "https://story-api.dicoding.dev/images/stories/photos-1684859686059_0LEXvJcv.jpg",
+      "createdAt": "2023-05-23T16:34:46.066Z",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "id": "story-vUnNh0fe5yfuJ3T2",
+      "name": "david",
+      "description": "grh",
+      "photoUrl": "https://story-api.dicoding.dev/images/stories/photos-1684859290369_9hDsEVjF.jpg",
+      "createdAt": "2023-05-23T16:28:10.372Z",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "id": "story-ewuW8lf6acOEgWWD",
+      "name": "Delfina Amarissa Sumanang",
+      "description": "tes",
+      "photoUrl": "https://story-api.dicoding.dev/images/stories/photos-1684858676311_AlICKLUl.jpg",
+      "createdAt": "2023-05-23T16:17:56.313Z",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "id": "story-0grUHqBB971AxTmv",
+      "name": "david",
+      "description": "aa",
+      "photoUrl": "https://story-api.dicoding.dev/images/stories/photos-1684857674165_5DNxWl8g.jpg",
+      "createdAt": "2023-05-23T16:01:14.168Z",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "id": "story-b1Q2NoqK1bLbmasJ",
+      "name": "testing",
+      "description": "1",
+      "photoUrl": "https://story-api.dicoding.dev/images/stories/photos-1684857638787_PwM0yZf6.jpg",
+      "createdAt": "2023-05-23T16:00:38.794Z",
+      "lat": -7.9229913,
+      "lon": 112.59407
+    },
+    {
+      "id": "story-wcBKs_Bi0NciZUNa",
+      "name": "testing",
+      "description": "\"2\"",
+      "photoUrl": "https://story-api.dicoding.dev/images/stories/photos-1684857240858_YeBxmcgB.jpg",
+      "createdAt": "2023-05-23T15:54:00.859Z",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "id": "story-N7wBRkypitqBKcl8",
+      "name": "tingnangnong",
+      "description": "pegAL",
+      "photoUrl": "https://story-api.dicoding.dev/images/stories/photos-1684857100452_hCXzP7GG.jpg",
+      "createdAt": "2023-05-23T15:51:40.453Z",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "id": "story-iI82x4EAS7i8yuuX",
+      "name": "ganteng",
+      "description": "galonku",
+      "photoUrl": "https://story-api.dicoding.dev/images/stories/photos-1684856889253_MTac2uiO.jpg",
+      "createdAt": "2023-05-23T15:48:09.256Z",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "id": "story-2Yj8ck1wfYyok0gJ",
+      "name": "kato",
+      "description": "halo",
+      "photoUrl": "https://story-api.dicoding.dev/images/stories/photos-1684856763382_KZZde3Wi.jpg",
+      "createdAt": "2023-05-23T15:46:03.386Z",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "id": "story-mpZQXCpTQzfWC9sg",
+      "name": "testing",
+      "description": "\"y\"",
+      "photoUrl": "https://story-api.dicoding.dev/images/stories/photos-1684856208269_35I8eqba.jpg",
+      "createdAt": "2023-05-23T15:36:48.270Z",
+      "lat": null,
+      "lon": null
+    }
+  ]
+}

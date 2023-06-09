@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="inputText">Input Text</style>
+
+    <style name="progressBar"></style>
+</resources>

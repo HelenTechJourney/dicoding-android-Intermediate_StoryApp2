@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">StoryApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="welcome_title">Selamat Datang!</string>
+    <string name="welcome_desc">Bagikan pengalamanmu dengan teman dan keluarga dengan mengunggah ceritamu di aplikasi kami.</string>
+    <string name="login">Masuk</string>
+    <string name="signup">Daftar</string>
+    <string name="username">Nama Pengguna</string>
+    <string name="username_detail">Nama Pengguna</string>
+    <string name="description_detail">Deskripsi</string>
+
+    <string name="button_login">Masuk</string>>
+    <string name="button_signup">Daftar</string>
+    <string name="descLogin">Belum punya akun?</string>
+    <string name="descSignup">Sudah punya akun?</string>
+    <string name="loginTitle">Masuk</string>
+    <string name="signupTitle">Daftar</string>
+    <string name="loginDesc">Silakan masuk untuk melanjutkan menggunakan aplikasi kami</string>
+    <string name="signupDesc">Silakan isi detail dan buat akun</string>
+    <string name="login_failed">Login gagal</string>
+    <string name="name">Nama</string>
+    <string name="email">Surel</string>
+    <string name="comeSignup">Daftar</string>
+    <string name="comeLogin">Masuk</string>
+
+    <string name="input_password">Masukkan kata sandi Anda di sini</string>
+    <string name="input_email">Masukkan Email Anda di sini</string>
+    <string name="required_email">Email harus diisi</string>
+    <string name="invalid_email">Email tidak valid</string>
+    <string name="required_pass">Kata sandi harus diisi</string>
+    <string name="unauthorized">Email atau kata sandi mungkin salah</string>
+    <string name="message_error">Pesan kesalahan</string>
+    <string name="email_taken">Email sudah digunakan</string>
+    <string name="pass_length">Kata sandi minimal 8 karakter</string>
+    <string name="login_success">Berhasil masuk</string>
+    <string name="user_created">Akun berhasil dibuat</string>
+    <string name="required_name">Nama harus diisi</string>
+    <string name="input_name">Masukkan nama Anda di sini</string>
+    <string name="input_cpass">Konfirmasi kata sandi Anda di sini</string>
+    <string name="pass_not_match">Kata sandi tidak cocok</string>
+
+    <string name="see_map">Google Maps</string>
+    <string name="language">Ubah Bahasa</string>
+    <string name="logout">Keluar</string>
+    <string name="you_sure">Apakah kamu yakin ingin keluar?</string>
+    <string name="yes">Ya</string>
+    <string name="no">Tidak</string>
+
+    <string name="camera">Kamera</string>
+    <string name="gallery">Galeri</string>
+    <string name="upload">Unggah</string>
+    <string name="input_desc">Masukkan deskripsi Anda</string>
+    <string name="input_photo">Masukkan foto Anda</string>
+    <string name="delete">Membatalkan</string>
+    <string name="message_cancel">Apakah kamu ingin membatalkan mengunggah cerita?</string>
+    <string name="cancel">Batal</string>
+
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="normal_type">Normal</string>
+    <string name="satellite_type">Satellite</string>
+    <string name="terrain_type">Terrain</string>
+    <string name="hybrid_type">Hybrid</string>
+    <string name="something_wrong">Ada yang Salah</string>
+    <string name="error_load">Gagal memuat</string>
+    <string name="no_location">Tidak ada data lokasi</string>
+    <string name="location_unknown">Nama lokasi tidak diketahui</string>
+
+    <string name="my_location">Lokasiku</string>
+    <string name="no_current_location">Tidak ada lokasi saat ini</string>
+    <string name="see_on_map">Lihat dipeta</string>
+    <string name="pick_place">Pilih lokasi</string>
+    <string name="use_this_location">Gunakan lokasi ini?</string>
+    <string name="retry">Coba lagi</string>
+    <string name="icon_map_pin">Ikon pin peta</string>
+    <string name="location">Lokasi</string>
+    <string name="use_current_location">Gunakan lokasi saat ini</string>
+
+    <string name="date">%2$s/%1$s/%3$s</string>
+    <string name="click_on_map_to_pick_place">Klik pada peta untuk memilih tempat</string>
+</resources>

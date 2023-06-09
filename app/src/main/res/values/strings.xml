@@ -1,0 +1,81 @@
+<resources>
+    <string name="app_name">StoryApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="welcome_title">Hello There!</string>
+    <string name="welcome_desc">Share your experiences with friends and family by uploading your story in our app.</string>
+    <string name="login">Login</string>
+    <string name="signup">Sign Up</string>
+    <string name="username">Name User</string>
+    <string name="username_detail">Name User</string>
+    <string name="description_detail">Description</string>
+
+    <string name="button_login">Login</string>>
+    <string name="button_signup">Sign Up</string>
+    <string name="descLogin">Don\'t have an account?</string>
+    <string name="descSignup">Already have an account?</string>
+    <string name="loginTitle">Login</string>
+    <string name="signupTitle">Sign Up</string>
+    <string name="loginDesc">Please login to continue using our app</string>
+    <string name="signupDesc">Please fill the details and create account</string>
+    <string name="login_failed">Login failed</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="comeSignup">Sign Up</string>
+    <string name="comeLogin">Login</string>
+
+    <string name="input_password">Enter your Password here</string>
+    <string name="input_email">Enter your Email here</string>
+    <string name="required_email">Email must be filled</string>
+    <string name="invalid_email">Email is not valid</string>
+    <string name="required_pass">Password must be filled</string>
+    <string name="unauthorized">Email or password might be wrong</string>
+    <string name="message_error">Error message</string>
+    <string name="email_taken">Email is already taken</string>
+    <string name="pass_length">Password length must be at least 8 characters</string>
+    <string name="login_success">Login Successfully</string>
+    <string name="user_created">User Created</string>
+    <string name="required_name">Name must be filled</string>
+    <string name="input_name">Enter your Name here</string>
+    <string name="input_cpass">Confirm your password here</string>
+    <string name="pass_not_match">Password not match</string>
+
+    <string name="see_map">Google Maps</string>
+    <string name="language">Change Language</string>
+    <string name="logout">Logout</string>
+    <string name="you_sure">Are you sure, do you want to logout?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+
+    <string name="camera">Camera</string>
+    <string name="gallery">Gallery</string>
+    <string name="upload">Upload</string>
+    <string name="input_desc">Please input your description</string>
+    <string name="input_photo">Please input your photo</string>
+    <string name="delete">delete</string>
+    <string name="message_cancel">Do you want to cancel uploading stories?</string>
+    <string name="cancel">Cancel</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="normal_type">Normal</string>
+    <string name="satellite_type">Satellite</string>
+    <string name="terrain_type">Terrain</string>
+    <string name="hybrid_type">Hybrid</string>
+    <string name="something_wrong">something\'s wrong</string>
+    <string name="error_load">Failed to load</string>
+    <string name="no_location">No Location Data</string>
+    <string name="location_unknown">Location Name Unknown</string>
+
+    <string name="my_location">My Location</string>
+    <string name="no_current_location">No current location</string>
+    <string name="see_on_map">See on Map</string>
+    <string name="pick_place"> Pick a Place</string>
+    <string name="use_this_location">Use this location?</string>
+    <string name="retry">Retry</string>
+    <string name="icon_map_pin">Icon map pin</string>
+    <string name="location">Location</string>
+    <string name="use_current_location">Use Current Location</string>
+
+    <string name="date">%2$s/%1$s/%3$s</string>
+    <string name="click_on_map_to_pick_place">Click on map to pick place</string>
+    <string name="showImg">Show Image</string>
+    <string name="title_activity_maps2">MapsActivity2</string>
+</resources>
